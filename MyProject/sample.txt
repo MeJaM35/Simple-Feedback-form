@@ -1,0 +1,14 @@
+All birds fly
+Every man respects his parent.
+Some boys play cricket.
+All students are smart.
+There exists a student.
+There exists a smart student.
+All grass is green
+There exist some friends which are not perfect
+There are some people who are not my friend and are perfect
+There exist some people who are not my friend and are not perfect
+"There exist some numbers which are either real OR rational"
+All real numbers are rational"
+There exist some numbers which are both real AND rational
+
